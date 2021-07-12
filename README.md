@@ -20,7 +20,7 @@ All you need is the Python-Markdown library, which you can install in a virtual 
     activate
 
     # Install the library
-    pip install markdown
+    pip install -r requirements.txt
 
 Usage
 -----
