@@ -19,8 +19,10 @@ All you need is the Python-Markdown library, which you can install in a virtual 
     source .venv/bin/activate
     activate
 
-    # Install the library
-    pip install -r requirements.txt
+    # Install dependencies
+    pip install --upgrade pip
+    pip install pip-tools
+    pip-sync requirements.txt
 
 Usage
 -----
