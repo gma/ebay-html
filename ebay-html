@@ -8,7 +8,7 @@ import markdown
 
 
 styles = {
-    "div.wrapper": "max-width: 37em; color: darkblue; font-size: 1.1em; font-family: sans",
+    "div.wrapper": "max-width: 45em; color: darkblue; font-size: 1.1em; font-family: sans",
     "li": "margin-bottom: 0.5em;",
     "p": "margin-bottom: 1em;",
     "ul": "margin-bottom: 1em;",
